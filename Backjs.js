@@ -44,7 +44,7 @@ let op=count();
 w.addEventListener("click",op);
 
 
-let y=89;
+let y=8;
 
 
 
